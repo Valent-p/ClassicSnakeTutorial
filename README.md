@@ -1,7 +1,9 @@
 
 # Learn Snake with Pure JavaScript
+![Start Screen](screenshots/start.jpg)
 
 This project is a classic Snake game built from scratch using only HTML, CSS, and vanilla JavaScript. It is designed for educational purposes to help beginners understand the fundamental concepts of 2D game development in a web browser.
+The project is created by Valentino Phiri (@Valent-p)
 
 ## Project Goal
 
